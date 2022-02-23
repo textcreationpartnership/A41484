@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ lifted up, or, The heads of the chief controverted points, preached by Mr. Iohn Goodwin, pastor of Colman-street London, which hath bin the pretended grounds of the opposition that he hath had, by some other ministers, printed from a coppie written with his own hand, for the use of some who live under his owne charge. And now published by a friend of his, for the generall vievv of all men</title>
+            <author>Goodwin, John, 1594?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41484</idno>
+            <idno type="STC">Wing G1157</idno>
+            <idno type="STC">ESTC R213804</idno>
+            <idno type="EEBO-CITATION">99826077</idno>
+            <idno type="PROQUEST">99826077</idno>
+            <idno type="VID">30469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30469)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1760:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ lifted up, or, The heads of the chief controverted points, preached by Mr. Iohn Goodwin, pastor of Colman-street London, which hath bin the pretended grounds of the opposition that he hath had, by some other ministers, printed from a coppie written with his own hand, for the use of some who live under his owne charge. And now published by a friend of his, for the generall vievv of all men</title>
+                  <author>Goodwin, John, 1594?-1665.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Signatures: A (-A8, blank?).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30469:1"/>
+            <pb facs="tcp:30469:1"/>
+            <p>CHRIST
+lifted up,
+OR,
+The heads of the chief Con<g ref="char:EOLhyphen"/>troverted
+Points, Preached
+By M<hi rend="sup">r.</hi> 
+               <hi>Iohn Goodwin,</hi> Paſtor of
+<hi>Colman-ſtreet London.</hi>
+            </p>
+            <p>Which hath bin the pretended grounds
+of the oppoſition that he hath had, by
+ſome other Miniſters,</p>
+            <p>Printed from a Coppie written with his own
+hand, for the uſe of ſome who live under
+his owne Charge.</p>
+            <p>And now Publiſhed by a Friend of his, for the
+generall view of all men.</p>
+            <q>
+               <bibl>1 Cor. 4. 5.</bibl>
+               <p>Iudge nothing before the time.</p>
+            </q>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:30469:2"/>
+            <pb facs="tcp:30469:2"/>
+            <head>THE
+EPISTLE
+TO
+THE READER.</head>
+            <opener>
+               <salute>Good READER,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Thought it not amiſſe to give a
+ſhort account, wherefore I preſent
+to the world this extract. I have
+met with two ſorts of men that have
+bin contrary in opinions concerning
+theſe points Controverted: yet in this
+they both agree, to Calumniate the
+Author: But they are upon tryall
+continually found (as I conceive) ſuch
+<pb facs="tcp:30469:3"/>
+as in true accompt neither know him,
+nor yet what hath bin affirmed or de<g ref="char:EOLhyphen"/>nyed
+in the points Controverted; the
+one ſort of Men (and the moſt learned
+of the two in ſome kind of learning)
+peremptorily affirme, that in ſome (or
+all) of theſe points there is at the leaſt
+Errour; others ſay Hereſie: nay that
+which is yet worſe, no leſſe then Blaſ<g ref="char:EOLhyphen"/>phemy:
+but how they doe to make this
+appear I will not determine, but leave
+to thoſe that know how to judge. The
+other ſort of men on the contrary, they
+ſay and affirm with no leſſe confidence,
+that in deed and in truth, there is no
+ſuch difference between M<hi>
+                  <hi rend="sup">r.</hi> Good<g ref="char:EOLhyphen"/>win,</hi>
+and other men in the points Con<g ref="char:EOLhyphen"/>troverted,
+but ſay, <hi>that he might have
+delivered his mind in the language of
+<pb facs="tcp:30469:3"/>
+other Miniſters, and ſo have preven<g ref="char:EOLhyphen"/>ted
+all differences:</hi> They affirme that
+he hath ſaid nothing but what hath
+bin generally ſaid by all others before
+him for ſubſtance, onely he hath taken
+to himſelfe ſome new way of expreſ<g ref="char:EOLhyphen"/>ſion,
+out of an affectation (as they con<g ref="char:EOLhyphen"/>ceive)
+of ſingularity, or vaine glory.
+Now that the firſt ſort of theſe may
+appeare to have layd their foundation
+no otherwhere but in the Sands; and
+the latter to have no foundation at all;
+I have preſented theſe heads to the
+view of Conſidering men, which may
+be as ſo many rules to try and prove
+them by, or lights to judge and diſcerne
+which is in the right, whether either
+or neither, which is the thing I ayme
+at: <hi>God</hi>-willing in time the world
+<pb facs="tcp:30469:4"/>
+may injoy the ſumme of the ſeverall
+diſcourſes at large in their ſeverall
+Tracts, and in the meane time by this
+taſt I hope wiſe men will be ſo wiſe, as
+not to be found Judges of the things
+they know not: which is the deſire</p>
+            <closer>
+               <signed>Of thy well-wiſhing Friend.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:30469:4"/>
+            <head>CHRIST
+lifted up.</head>
+            <p>1. CHRIST rejecteth no man
+that cometh unto him by
+Faith, for want of prece<g ref="char:EOLhyphen"/>ding
+Legall Preparations, by way of
+terrour or humiliation for ſin, <hi>Joh.</hi> 6. 37.
+<hi>Revel.</hi> 22. 17, &amp;c. Neither is there any
+abſolute neceſſity of ſuch preparation,
+in reſpect of <hi>God,</hi> in that work of his
+whereby he infuſeth Faith, or enableth
+a man to come unto <hi>Chriſt:</hi> but he who
+juſtifieth the ungodly, is able to come
+upon a man in the middeſt of the greateſt
+and deepeſt unpreparedneſſe, and to
+bring him to <hi>Chriſt</hi> immediately. Nei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:30469:5"/>
+hath he any where in Scripture, con<g ref="char:EOLhyphen"/>fined
+or limited the execution of this his
+power, ſo as to engage or bind himſelfe,
+never to make Beleevers, but of the lump
+or maſſe prepared by the Law. Neither
+hath he impoſed any Commandement
+upon unbeleevers, to prepare, diſpoſe, or
+qualifie themſelvs for the guift or receiv<g ref="char:EOLhyphen"/>ing
+of <hi>Chriſt</hi> by Faith, by procuring their
+hearts to be ſmitten or wounded by the
+Law. Neither doth any ſuch ſmiting or
+wounding by the Law, give any man any
+more right or title of beleeving in <hi>Chriſt,</hi>
+then others have, who have not bin ſo
+ſmitten. But the grace of the Goſpell is
+every wayes abſolutely, and intirely free
+and open, to whoſoever is willing to
+receive it, <hi>Rev. 22. 17. Joh.</hi> 3. 16. yea and
+every man is bound to beleeve, in what
+eſtate or condition ſoever the Goſpell
+finds him: and not to reject the Grace of
+<hi>God</hi> therein, or put off the worke of <hi>be<g ref="char:EOLhyphen"/>leeving,</hi>
+upon any pretence or conceit of
+unworthineſſe, through want of Legall
+<pb facs="tcp:30469:5"/>
+               <hi>humiliation.</hi> Neither is there any <hi>humili<g ref="char:EOLhyphen"/>ation</hi>
+for ſin, truly acceptable unto <hi>God,</hi>
+or neceſſarily accompanied with <hi>ſalvati<g ref="char:EOLhyphen"/>on,</hi>
+but that which is wrought in a man,
+upon, or after his beleeving, <hi>Heb.</hi> 11. 6.
+<hi>Ioh.</hi> 15. 5. which is the fitteſt time for ſuch
+<hi>humiliation, (Zach.</hi> 12. 10.) how ſoever the
+Commandement of being humbled for
+ſin, lyeth upon unregenerate men alſo at
+all times, though not in relation to their
+future beleeving.</p>
+            <p>2. <hi>Faith</hi> in <hi>Chriſt</hi> juſtifieth the Belee<g ref="char:EOLhyphen"/>ver,
+neither as it is an <hi>habit,</hi> neither as an
+<hi>act,</hi> neither as it is the <hi>worke</hi> of Man, nei<g ref="char:EOLhyphen"/>ther
+as it is the <hi>worke</hi> or <hi>guift</hi> of <hi>God;</hi> nor
+in regard of any intrinſecall vertue, na<g ref="char:EOLhyphen"/>tive
+property, quality or dignity what<g ref="char:EOLhyphen"/>ſoever,
+whether abſolute or relative, but
+by vertue of that <hi>will, good pleaſure, ordina<g ref="char:EOLhyphen"/>tion,</hi>
+or <hi>Covenant</hi> of <hi>God</hi> with his Crea<g ref="char:EOLhyphen"/>ture,
+whereby he hath ſetled this great
+Prerogative upon <hi>Faith,</hi> rather then upon
+any other Grace, or act whatſoever, <hi>Joh.</hi>
+               <pb facs="tcp:30469:6"/>
+6. 40. <hi>Joh. 1. 12. Joh. 3. 16. Eph.</hi> 2. 8, &amp;c. And
+is truly ſaid to juſtifie inſtrumentally in
+this ſence, as it is means choſen and ſan<g ref="char:EOLhyphen"/>ctified
+by <hi>God,</hi> to bring men into commu<g ref="char:EOLhyphen"/>nion,
+part and fellowſhip of that Juſtifi<g ref="char:EOLhyphen"/>cation
+and Redemption, which <hi>Chriſt</hi>
+hath purchaſed: But to ſay, that Faith
+juſtifieth, in relation to its object <hi>Chriſt,</hi>
+or (which is the ſame) becauſe it layeth
+hold on <hi>Chriſt,</hi> is to aſcribe a meritorious
+efficiency to it in the work of <hi>juſtification,</hi>
+and to ſeat the juſtifying nature or pow<g ref="char:EOLhyphen"/>er
+of it, in a property which is moſt natu<g ref="char:EOLhyphen"/>rall,
+intrinſecall, and eſſentiall to it: yea
+and beſides, makes the love of <hi>Chriſt,</hi> and
+every other Grace that hath relation to
+<hi>Chriſt</hi> as its object, to be juſtifying as well
+as it.</p>
+            <p>3. There is no Morall, Legall, or poſi<g ref="char:EOLhyphen"/>tive
+<hi>righteouſneſſe,</hi> conſiſting either in
+<hi>habits,</hi> or <hi>acts,</hi> (or both) conformable to
+the Morall Law, that is formally imputed
+from <hi>Chriſt,</hi> or derived upon a Beleever,
+<pb facs="tcp:30469:6"/>
+in his <hi>juſtification.</hi> But that <hi>righteouſneſſe</hi>
+or <hi>juſtification,</hi> which <hi>Chriſt</hi> hath purcha<g ref="char:EOLhyphen"/>ſed
+by his <hi>active</hi> and <hi>paſſive obedience</hi> to<g ref="char:EOLhyphen"/>gether,
+for thoſe that <hi>beleeve</hi> in him, con<g ref="char:EOLhyphen"/>ſiſts
+wholly in <hi>forgiveneſſe of ſinnes, Rom.</hi> 4.
+v. 5, 6, 7, 8. <hi>Act.</hi> 13. 38, 39, &amp;c. which is
+therfore called an <hi>imputed righteouſneſſe,</hi>
+or a <hi>righteouſneſſe</hi> without <hi>works, Rom.</hi> 4.
+6, &amp;c. becauſe it is freely given, conferr'd,
+or caſt upon a beleever, by <hi>God.</hi> And
+becauſe <hi>Faith</hi> is anoynted or ſet apart by
+<hi>God</hi> to this office or ſervice of bringing
+in the Beleever into communion and
+fellowſhip of this <hi>imputed righteouſneſſe</hi>
+or <hi>juſtification</hi> purchaſed by <hi>Chriſt,</hi> is
+therfore it ſelfe ſaid to be imputed for,
+or unto <hi>righteouſneſſe, Gen. 15. 6. Rom.</hi> 4.
+5, &amp;c. that is, to be all that <hi>God</hi> now re<g ref="char:EOLhyphen"/>quireth
+of any man, for, or towards his
+<hi>juſtification,</hi> or the <hi>forgiveneſſe</hi> of his <hi>ſins.</hi>
+Neither is the obſervation of the Morall
+Law, either by a mans ſelfe, or by ſurety,
+any part of any mans <hi>juſtification:</hi> which
+is compleat and intire, in the nature and
+<pb facs="tcp:30469:7"/>
+ſubſtance of it, without <hi>works, i. e.</hi> the
+merit of <hi>works, Rom.</hi> 4. 6. though the pur<g ref="char:EOLhyphen"/>chaſe
+and procurement of it, on <hi>Chriſts</hi>
+part, was by merit of <hi>works.</hi>
+            </p>
+            <p>4. That <hi>Faith</hi> which preciſely juſtifi<g ref="char:EOLhyphen"/>eth
+a ſinner in the ſight of <hi>God,</hi> is not the
+beleeving any thing more, or any thing
+beſides, what <hi>God</hi> himſelfe hath plainly
+revealed in his Goſpell. Therfore truly
+and ſoundly to beleeve the Goſpell, as it
+cometh from <hi>God,</hi> or as it is delivered by
+the Holy Ghoſt in the Scripture, is that
+<hi>Faith</hi> which <hi>juſtifieth.</hi> The ſumme or
+ſubſtance whereof, is uſually compriz'd
+in theſe or the like Propoſitions, <hi>That
+Jeſus Chriſt is that Son of God, that whoſoever
+beleeves on him, ſhall be ſaved,</hi> &amp;c. Which
+Euangelicall Oracles, whoſoever rightly
+underſtandeth, and in a cordiall, firme,
+and ſincere manner, and with his whole
+heart beleeveth, is juſtified before <hi>God,
+Joh. 20. 31. Act. 8 37. 1 Joh. 5. 1. 5, &amp;c.</hi> and
+hath undoubted grounds to beleeve his
+<pb facs="tcp:30469:7"/>
+particular or perſonall <hi>ſalvation,</hi> in as full
+and ſatisfying a manner, as he beleeves
+the Goſpell it ſelfe. Neither is it poſſible
+that any man, who thus beleeves the
+Goſpell, and withall knows and conſi<g ref="char:EOLhyphen"/>ders
+what he beleeveth therein, but that
+he ſhould make particular application
+of <hi>Chriſt</hi> to himſelfe, and beleeve his own
+<hi>ſalvation,</hi> becauſe all feares, doubts, and
+queſtions whatſoever may be conceiv'd
+or mov'd in the ſoule, touching his <hi>ſal<g ref="char:EOLhyphen"/>vation,</hi>
+are fully anſwered and taken
+away by ſuch a Faith; As he that knows
+and conſiders what a Rock is, as touch<g ref="char:EOLhyphen"/>ing
+the ſtrength, firmneſſe, and ſtability
+of it, unpoſſible it is, that he ſhould refuſe
+to ſtand upon it for feare of ſinking,
+becauſe all grounds and reaſons of this
+feare, are fully taken away by ſuch a
+knowledge and conſideration.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
